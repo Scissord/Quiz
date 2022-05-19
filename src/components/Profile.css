@@ -1,0 +1,19 @@
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+article {
+    font-size: 1.2rem;
+    width: 90%;
+    margin: 1rem;
+}
+
+img {
+    width: 200px;
+    border: 0.5rem double #000;
+    border-radius: 50%;
+    margin: 0 1rem 1rem;
+}
